@@ -1,6 +1,6 @@
 # Crea Tu Web <img src="https://cdn.discordapp.com/emojis/875135451281887324.png?v=1" width="35px">
 
-Esta es una explicación mas completa del tutorial ya explicado en un [video](https://cointor.cf) de mi [canal](https://www.youtube.com/channel/UC533ULEaGNCG01Ojv2Dtavw) <img src="https://cdn.discordapp.com/emojis/872769021274128386.png?v=1" width="25px">
+Esta es una explicación mas completa del tutorial ya explicado en un [video](https://cointor.cf) de mi [canal](https://www.youtube.com/channel/UC533ULEaGNCG01Ojv2Dtavw) <img src="https://cdn.discordapp.com/emojis/872769021274128386.png?v=1" width="25px" style="margin-top: 10px;">
 
 ## Creación <img src="https://cdn.discordapp.com/emojis/808381295976644708.gif?v=1" width="35px">
 
